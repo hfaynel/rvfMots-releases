@@ -12,6 +12,9 @@ puis, dans « Assets » :
   menu Démarrer ; il se désinstalle depuis Paramètres > Applications. Une
   nouvelle version s'installe par-dessus l'ancienne, vos parties et vos options
   gardées.
+- **Android** : `rvfMots-<version>.apk`, à ouvrir sur le téléphone. La première
+  fois, Android demande d'autoriser l'installation d'applications depuis le
+  navigateur. Une nouvelle version s'installe par-dessus l'ancienne.
 - **Windows, sans installer** : `rvfMots-<version>-windows.zip`, à décompresser,
   puis lancer `rvfMots.exe`.
 
