@@ -26,6 +26,9 @@ complémentaires », puis « Exécuter quand même ».
 
 Dictionnaire : lexique Grammalecte (Dicollecte), par Olivier R.,
 [grammalecte.net](https://grammalecte.net/), sous licence Mozilla Public
-License 2.0. Moteur : Godot Engine, licence MIT.
+License 2.0. Et Morphalou 3.1, lexique morphologique ouvert du français,
+ATILF (CNRS, Université de Lorraine), sous licence LGPL-LR : la part qu'en
+tire le jeu est dans [dictionnaire/](dictionnaire/). Moteur : Godot Engine,
+licence MIT.
 
 © 2026 rvfGames
